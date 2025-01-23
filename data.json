@@ -1,10 +1,20 @@
 {
     "movies": [
         {
-            "title": "Anyone But Yo75",
+            "title": "Anyone But You",
             "year": 2023,
             "director": "Will Gluck",
-	    "genre": "romance"
+	    "genre": "romance",
+	    "time": "103",
+	    "image": "https://a.ltrbxd.com/resized/film-poster/9/6/6/9/9/0/966990-anyone-but-you-0-1000-0-1500-crop.jpg?v=62514c5b09"
+        },
+	{
+            "title": "Missing",
+            "year": 2023,
+            "director": "Will Merrick",
+	    "genre": "thriller",
+	    "time": "111",
+	    "image": "https://a.ltrbxd.com/resized/film-poster/6/8/8/0/8/8/688088-missing-0-1000-0-1500-crop.jpg?v=4f8c500ef6"
         }
     ]
 }
