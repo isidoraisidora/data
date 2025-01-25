@@ -183,6 +183,350 @@
             "genre": "drama",
             "time": 120,
             "image": "https://a.ltrbxd.com/resized/sm/upload/hv/nn/05/ss/d20vOJpywFDoz7Dd4ChomGdP0fr-0-1000-0-1500-crop.jpg?v=836521d1aa"
+        },
+        {
+            "title": "The Florida Project",
+            "year": 2017,
+            "director": "Sean Baker",
+            "genre": "drama",
+            "time": 112,
+            "image": "https://a.ltrbxd.com/resized/film-poster/3/2/8/5/3/8/328538-the-florida-project-0-1000-0-1500-crop.jpg?v=60e095aa65"
+        },
+        {
+            "title": "Baby Driver",
+            "year": 2017,
+            "director": "Edgar Wright",
+            "genre": "action",
+            "time": 113,
+            "image": "https://a.ltrbxd.com/resized/film-poster/2/6/8/9/5/0/268950-baby-driver-0-1000-0-1500-crop.jpg?v=61304ddfc8"
+        },
+        {
+            "title": "Get Out",
+            "year": 2017,
+            "director": "Jordan Peele",
+            "genre": "thriller",
+            "time": 104,
+            "image": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-1000-0-1500-crop.jpg?v=136acec030"
+        },
+        {
+            "title": "Columbus",
+            "year": 2017,
+            "director": "Kogonada",
+            "genre": "drama",
+            "time": 104,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-1000-0-1500-crop.jpg?v=800e4a6439"
+        },
+        {
+            "title": "Call Me by Your Name",
+            "year": 2017,
+            "director": "Luca Guadagnino",
+            "genre": "drama",
+            "time": 132,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-1000-0-1500-crop.jpg?v=f0c073f2b4"
+        },
+        {
+            "title": "Nocturnal Animals",
+            "year": 2016,
+            "director": "Tom Ford",
+            "genre": "thriller",
+            "time": 117,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/nu/i0/7z/nd/oHL437Dz1TGQMlKfpE6rSQJgMxb-0-1000-0-1500-crop.jpg?v=16ef03c9c1"
+        },
+        {
+            "title": "La La Land",
+            "year": 2016,
+            "director": "Damien Chazelle",
+            "genre": "romance",
+            "time": 129,
+            "image": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-1000-0-1500-crop.jpg?v=053670ff84"
+        },
+        {
+            "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "year": 2014,
+            "director": "Alejandro González Iñárritu",
+            "genre": "drama",
+            "time": 120,
+            "image": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-1000-0-1500-crop.jpg?v=345680513e"
+        },
+        {
+            "title": "Whiplash",
+            "year": 2014,
+            "director": "Damien Chazelle",
+            "genre": "drama",
+            "time": 107,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-1000-0-1500-crop.jpg?v=d13ea36528"
+        },
+        {
+            "title": "Coherence",
+            "year": 2013,
+            "director": "James Ward Byrkit",
+            "genre": "thriller",
+            "time": 89,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-1000-0-1500-crop.jpg?v=a286174883"
+        },
+        {
+            "title": "Begin Again",
+            "year": 2013,
+            "director": "John Carney",
+            "genre": "romance",
+            "time": 104,
+            "image": "https://a.ltrbxd.com/resized/film-poster/1/4/2/2/9/9/142299-begin-again-0-1000-0-1500-crop.jpg?v=4050295ee8"
+        },
+        {
+            "title": "Prisoners",
+            "year": 2013,
+            "director": "Denis Villeneuve",
+            "genre": "thriller",
+            "time": 153,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/iw/eg/4g/nm/3w79tTsv6tmlT8Jww6snyPrgVok-0-1000-0-1500-crop.jpg?v=778c7ae8b8"
+        },
+        {
+            "title": "About Time",
+            "year": 2013,
+            "director": "Richard Curtis",
+            "genre": "romance",
+            "time": 123,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/uo/th/yf/uz/zSuh8dGwqpsWR7ccvYbfxbSZ37o-0-1000-0-1500-crop.jpg?v=7276b6e978"
+        },
+        {
+            "title": "Life of Pi",
+            "year": 2013,
+            "director": "Ang Lee",
+            "genre": "drama",
+            "time": 127,
+            "image": "https://a.ltrbxd.com/resized/film-poster/7/4/3/4/8/74348-life-of-pi-0-1000-0-1500-crop.jpg?v=5b5f120090"
+        },
+        {
+            "title": "The Perks of Being a Wallflower",
+            "year": 2012,
+            "director": "Stephen Chbosky",
+            "genre": "drama",
+            "time": 103,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/zz/o0/mz/sv/fyYncUQh5gUTvxmQ4bigm2DVCv7-0-1000-0-1500-crop.jpg?v=1188bcf4af"
+        },
+        {
+            "title": "Inglourious Basterds",
+            "year": 2009,
+            "director": "Quentin Tarantino",
+            "genre": "action",
+            "time": 153,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/1/3/5/2/41352-inglourious-basterds-0-1000-0-1500-crop.jpg?v=0c74c673e0"
+        },
+        {
+            "title": "An Education",
+            "year": 2009,
+            "director": "Lone Scherfig",
+            "genre": "romance",
+            "time": 100,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/g5/7i/so/u3/ytyXB37zbHT8STytnAs06JXp608-0-1000-0-1500-crop.jpg?v=a30039b4d0"
+        },
+        {
+            "title": "Taken",
+            "year": 2008,
+            "director": "Pierre Morel",
+            "genre": "action",
+            "time": 94,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/7/6/4/8/47648-taken-0-1000-0-1500-crop.jpg?v=e4d86bfd68"
+        },
+        {
+            "title": "Aquamarine",
+            "year": 2006,
+            "director": "Elizabeth Allen Rosenbaum",
+            "genre": "comedy",
+            "time": 103,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/3/2/8/0/43280-aquamarine-0-1000-0-1500-crop.jpg?v=572746e1a0"
+        },
+        {
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "director": "Michel Gondry",
+            "genre": "romance",
+            "time": 108,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-1000-0-1500-crop.jpg?v=116621c401"
+        },
+        {
+            "title": "Big Fish",
+            "year": 2003,
+            "director": "Tim Burton",
+            "genre": "drama",
+            "time": 125,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/w2/v9/2v/lv/6DRFdlNZpAaEt7eejsbAlJGgaM7-0-1000-0-1500-crop.jpg?v=89bfbcf64e"
+        },
+        {
+            "title": "Kill Bill: Vol. 1",
+            "year": 2003,
+            "director": "Quentin Tarantino",
+            "genre": "action",
+            "time": 111,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-1000-0-1500-crop.jpg?v=5a65f5202f"
+        },
+        {
+            "title": "Under the Tuscan Sun",
+            "year": 2003,
+            "director": "Audrey Wells",
+            "genre": "romance",
+            "time": 113,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/5/7/5/9/45759-under-the-tuscan-sun-0-1000-0-1500-crop.jpg?v=8034a983f6"
+        },
+        {
+            "title": "What a Girl Wants",
+            "year": 2003,
+            "director": "Dennie Gordon",
+            "genre": "romance",
+            "time": 105,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/5/9/4/3/45943-what-a-girl-wants-0-1000-0-1500-crop.jpg?v=c58e343345"
+        },
+        {
+            "title": "How to Lose a Guy in 10 Days",
+            "year": 2003,
+            "director": "Donald Petrie",
+            "genre": "romance",
+            "time": 115,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/t0/2v/iy/9c/aiB7u6xZ9RWeDTQ7c92J8AoiHj3-0-1000-0-1500-crop.jpg?v=422ef264f8"
+        },
+        {
+            "title": "A Walk to Remember",
+            "year": 2002,
+            "director": "Adam Shankman",
+            "genre": "romance",
+            "time": 101,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/6/4/2/2/46422-a-walk-to-remember-0-1000-0-1500-crop.jpg?v=f2d95ce967"
+        },
+        {
+            "title": "Sugar & Spice",
+            "year": 2001,
+            "director": "Francine McDougall",
+            "genre": "comedy",
+            "time": 81,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/1/4/1/7/41417-sugar-spice-0-1000-0-1500-crop.jpg?v=7c98a835c3"
+        },
+        {
+            "title": "American Beauty",
+            "year": 1999,
+            "director": "Sam Mendes",
+            "genre": "drama",
+            "time": 122,
+            "image": "https://a.ltrbxd.com/resized/film-poster/2/7/0/3/2703-american-beauty-0-1000-0-1500-crop.jpg?v=30329dd752"
+        },
+        {
+            "title": "Drop Dead Gorgeous",
+            "year": 1999,
+            "director": "Michael Patrick Jann",
+            "genre": "drama",
+            "time": 98,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/9/46179-drop-dead-gorgeous-0-1000-0-1500-crop.jpg?v=c429391f85"
+        },
+        {
+            "title": "10 Things I Hate About You",
+            "year": 1999,
+            "director": "Gil Junger",
+            "genre": "romance",
+            "time": 97,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-1000-0-1500-crop.jpg?v=a2db0a150a"
+        },
+        {
+            "title": "You’ve Got Mail",
+            "year": 1998,
+            "director": "Nora Ephron",
+            "genre": "romance",
+            "time": 119,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/7/1/0/9/47109-you-ve-got-mail-0-1000-0-1500-crop.jpg?v=4a6ca4dba1"
+        },
+        {
+            "title": "Rush Hour",
+            "year": 1998,
+            "director": "Brett Ratner",
+            "genre": "comedy",
+            "time": 97,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/7/50517-rush-hour-0-1000-0-1500-crop.jpg?v=fa0689eb4f"
+        },
+        {
+            "title": "Mulan",
+            "year": 1998,
+            "director": "Barry Cook",
+            "genre": "drama",
+            "time": 88,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/yz/dm/zk/5z/5vG3XyQNxOkl2Qd7D8MzMoY6sm2-0-1000-0-1500-crop.jpg?v=660de4097f"
+        },
+        {
+            "title": "The Truman Show",
+            "year": 1998,
+            "director": "Peter Weir",
+            "genre": "drama",
+            "time": 103,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-1000-0-1500-crop.jpg?v=704ba393f7"
+        },
+        {
+            "title": "My Best Friend’s Wedding",
+            "year": 1997,
+            "director": "P.J. Hogan",
+            "genre": "romance",
+            "time": 105,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/7/5/5/0/47550-my-best-friend-s-wedding-0-1000-0-1500-crop.jpg?v=181f47401f"
+        },
+        {
+            "title": "Clueless",
+            "year": 1995,
+            "director": "Amy Heckerling",
+            "genre": "romance",
+            "time": 97,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/fn/rr/3z/h7/i8gEHh2sszB6YWLC0jl559sxAeN-0-1000-0-1500-crop.jpg?v=593192fedf"
+        },
+        {
+            "title": "La Haine",
+            "year": 1995,
+            "director": "Mathieu Kassovitz",
+            "genre": "drama",
+            "time": 98,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/4/51684-la-haine-0-1000-0-1500-crop.jpg?v=b6677cc136"
+        },
+        {
+            "title": "Before Sunrise",
+            "year": 1995,
+            "director": "Richard Linklaterz",
+            "genre": "romance",
+            "time": 101,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-1000-0-1500-crop.jpg?v=006e8fedea"
+        },
+        {
+            "title": "Sleepless in Seattle",
+            "year": 1993,
+            "director": "Nora Ephron",
+            "genre": "romance",
+            "time": 105,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/4/51294-sleepless-in-seattle-0-1000-0-1500-crop.jpg?v=dfcd625aba"
+        },
+        {
+            "title": "Thelma & Louise",
+            "year": 1991,
+            "director": "Ridley Scott",
+            "genre": "drama",
+            "time": 130,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/wt/r4/hc/iz/pnzuLoE52EiTfjfqRex2uTkH7LB-0-1000-0-1500-crop.jpg?v=5c24b21874"
+        },
+        {
+            "title": "Pretty Woman",
+            "year": 1990,
+            "director": "Garry Marshall",
+            "genre": "romance",
+            "time": 120,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/6/51936-pretty-woman-0-1000-0-1500-crop.jpg?v=b190c1d6bc"
+        },
+        {
+            "title": "When Harry Met Sally…",
+            "year": 1990,
+            "director": "Rob Reiner",
+            "genre": "romance",
+            "time": 96,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-1000-0-1500-crop.jpg?v=2f277e2fe7"
+        },
+        {
+            "title": "When Harry Met Sally…",
+            "year": 1990,
+            "director": "Rob Reiner",
+            "genre": "romance",
+            "time": 96,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-1000-0-1500-crop.jpg?v=2f277e2fe7"
         }
     ]
 }
