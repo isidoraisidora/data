@@ -79,6 +79,110 @@
             "genre": "romance",
             "time": "102",
             "image": "https://a.ltrbxd.com/resized/film-poster/5/6/3/0/1/7/563017-shithouse-0-1000-0-1500-crop.jpg?v=5919e170d9"
+        },
+        {
+            "title": "Shiva Baby",
+            "year": 2020,
+            "director": "Emma Seligman",
+            "genre": "drama",
+            "time": 78,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-1000-0-1500-crop.jpg?v=a258215f88"
+        },
+        {
+            "title": "Palm Springs",
+            "year": 2020,
+            "director": "Max Barbakow",
+            "genre": "romance",
+            "time": 90,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/6/7/515467-palm-springs-0-1000-0-1500-crop.jpg?v=d3df94888b"
+        },
+        {
+            "title": "Promising Young Woman",
+            "year": 2020,
+            "director": "Emerald Fennell",
+            "genre": "drama",
+            "time": 113,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/0/0/4/7/510047-promising-young-woman-0-1000-0-1500-crop.jpg?v=21703347b6"
+        },
+        {
+            "title": "Zola",
+            "year": 2020,
+            "director": "Janicza Bravo",
+            "genre": "drama",
+            "time": 86,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/mm/d1/e8/u5/zola-0-1000-0-1500-crop.jpg?v=5eaabb757d"
+        },
+        {
+            "title": "Black Bear",
+            "year": 2020,
+            "director": "Lawrence Michael Levine",
+            "genre": "drama",
+            "time": 106,
+            "image": "https://a.ltrbxd.com/resized/film-poster/5/5/1/4/0/0/551400-black-bear-0-1000-0-1500-crop.jpg?v=915f65548f"
+        },
+        {
+            "title": "Babyteeth",
+            "year": 2019,
+            "director": "Shannon Murphy",
+            "genre": "drama",
+            "time": 118,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/3/3/451533-babyteeth-0-1000-0-1500-crop.jpg?v=600cb86e0b"
+        },
+        {
+            "title": "Ready or Not",
+            "year": 2019,
+            "director": "Matt Bettinelli-Olpin",
+            "genre": "thriller",
+            "time": 95,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/6/9/495969-ready-or-not-0-1000-0-1500-crop.jpg?v=13279f6ca8"
+        },
+        {
+            "title": "Parasite",
+            "year": 2019,
+            "director": "Bong Joon-ho",
+            "genre": "drama",
+            "time": 133,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-1000-0-1500-crop.jpg?v=8f5653f710"
+        },
+        {
+            "title": "The Art of Self-Defense",
+            "year": 2019,
+            "director": "Riley Stearns",
+            "genre": "comedy",
+            "time": 104,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/1/0/9/5/8/410958-the-art-of-self-defense-0-1000-0-1500-crop.jpg?v=069b9a9f7a"
+        },
+        {
+            "title": "mid90s",
+            "year": 2018,
+            "director": "Jonah Hill",
+            "genre": "drama",
+            "time": 86,
+            "image": "https://a.ltrbxd.com/resized/film-poster/3/7/0/4/5/1/370451-mid90s-0-1000-0-1500-crop.jpg?v=75ec66cf80"
+        },
+        {
+            "title": "Sorry to Bother You",
+            "year": 2018,
+            "director": "Boots Riley",
+            "genre": "comedy",
+            "time": 112,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/pi/8d/sk/jg/wdiJKxlyg3bzqZgRsNcIfoaQs1O-0-1000-0-1500-crop.jpg?v=f85a9cc2f4"
+        },
+        {
+            "title": "Searching",
+            "year": 2018,
+            "director": "Aneesh Chaganty",
+            "genre": "thriller",
+            "time": 102,
+            "image": "https://a.ltrbxd.com/resized/film-poster/4/2/0/4/6/7/420467-searching-0-1000-0-1500-crop.jpg?v=1485a93a9f"
+        },
+        {
+            "title": "I, Tonya",
+            "year": 2017,
+            "director": "Craig Gillespie",
+            "genre": "drama",
+            "time": 120,
+            "image": "https://a.ltrbxd.com/resized/sm/upload/hv/nn/05/ss/d20vOJpywFDoz7Dd4ChomGdP0fr-0-1000-0-1500-crop.jpg?v=836521d1aa"
         }
     ]
 }
